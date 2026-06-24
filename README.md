@@ -352,13 +352,13 @@ flutter build ipa --release
 ## 📞 Support & Feedback
 
 - For bugs or feature requests, open an issue on GitHub.
-- For documentation clarification, check [docs/](docs/) folder or contact the development team.
+- For documentation clarification, check [docs/](docs/) folder or contact the development team [kyrilloselia2@gmail.com].
 
 ---
 
-**Last Updated:** 2026-04-29  
-**Flutter Version:** 3.x+  
-**Dart Version:** 3.x+
+**Last Updated:** 2026-06-24  
+**Flutter Version:** 3.4.0  
+**Dart Version:** 3.3.2
 
 ---
 
